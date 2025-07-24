@@ -7,7 +7,7 @@ Sou um jovem que gosta de criar coisas (e tentar melhorar as que já estão cria
 - 🌎 **Localização:** Guarulhos - SP
 - 🏢 **Trabalho atual:**  Analista de Projetos
 - 🏫 **Formação:**  FIAP - Sistemas de Informação
-- 🤖 **Interesses:** Inteligência Artificial, Automação e Dados
+- 🤖 **Interesses:** Inteligência Artificial, Automação e API's
 - 🐍 **Buscando oportunidades com:** Python e tecnologias relacionadas
 - 📄 **Currículo:** [Clique aqui para acessar](https://drive.google.com/file/d/1w1J6KmxUQ3vMMUd421XIqJmLLDi5MMWm/view?usp=drive_link)
 ### 🚀 Minhas Habilidades
