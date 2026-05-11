@@ -5,7 +5,7 @@ Sou um jovem que gosta de criar coisas (e tentar melhorar as que já estão cria
 
 ### 🧑🏻‍💻 Sobre Mim
 - 🌎 **Localização:** São Paulo - SP
-- 🏢 **Trabalho atual:**  Technical Solutions Intern
+- 🏢 **Trabalho atual:**  SAP Development
 - 🏫 **Formação:**  FIAP - Sistemas de Informação (5/8)
 - 🤖 **Interesses:** Inteligência Artificial, Automação e API's
 - 🐍 **Buscando oportunidades com:** Python e tecnologias relacionadas
