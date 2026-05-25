@@ -9,7 +9,6 @@ Sou um jovem que gosta de criar coisas (e tentar melhorar as que já estão cria
 - 🏫 **Formação:**  FIAP - Sistemas de Informação (5/8)
 - 🤖 **Interesses:** Inteligência Artificial, Automação e API's
 - 🐍 **Buscando oportunidades com:** Python e tecnologias relacionadas
-- 📄 **Currículo:** [Clique aqui para acessar](https://drive.google.com/file/d/1w1J6KmxUQ3vMMUd421XIqJmLLDi5MMWm/view?usp=drive_link)
 ### 🚀 Minhas Habilidades
 - 🐍 Python (automação, web scraping, APIs)
 - ☕ Java (Spring, JPA)
