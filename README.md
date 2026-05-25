@@ -8,7 +8,6 @@ Sou um jovem que gosta de criar coisas (e tentar melhorar as que já estão cria
 - 🏢 **Trabalho atual:**  SAP Development
 - 🏫 **Formação:**  FIAP - Sistemas de Informação (5/8)
 - 🤖 **Interesses:** Inteligência Artificial, Automação e API's
-- 🐍 **Buscando oportunidades com:** Python e tecnologias relacionadas
 ### 🚀 Minhas Habilidades
 - 🐍 Python (automação, web scraping, APIs)
 - ☕ Java (Spring, JPA)
